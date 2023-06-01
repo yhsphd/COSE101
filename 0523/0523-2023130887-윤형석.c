@@ -5,7 +5,7 @@
 입출력은 main에서, 문자열의 비교는 함수에서 함
 함수는 두 문자열이 동일하면 1을, 그렇지 않으면 0을 return함
 call-by-reference를 이용할 것
-'string.h'는 사용하지 말 걸
+'string.h'는 사용하지 말 것
 */
 
 #pragma warning(disable: 4996)
