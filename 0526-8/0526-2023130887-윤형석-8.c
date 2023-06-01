@@ -3,7 +3,6 @@
 strchr() ÇÔ¼ö
 */
 
-#pragma warning(disable:4996)
 #include <stdio.h>
 #include <string.h>
 
